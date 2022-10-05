@@ -81,5 +81,8 @@
     },
     {
         "repo": "agg23/openfpga-NES"
+    },
+    {
+        "repo": "ericlewis/openFPGA-Genesis"
     }
 ]
